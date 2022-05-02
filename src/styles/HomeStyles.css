@@ -1,0 +1,32 @@
+.container {
+    background-color: white;
+    
+}
+
+
+
+.btn-text {
+    float: right;
+    margin: 11px 40px 0 0;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+
+.imgEnglish {
+    width: 30%;
+    display:block;
+    margin:auto;
+    border-radius: 1rem;
+}
+
+.fondoCard {
+    background-color: rgb(231, 231, 231);
+    border-style: none;
+}
+
+.bgVocabulary {
+
+    background-color: rgb(162, 239, 253);
+
+}
